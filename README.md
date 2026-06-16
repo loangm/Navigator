@@ -1,5 +1,4 @@
 # Navigator
-### by Weezya
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)
 
@@ -7,8 +6,6 @@
 - Navigateur d'activités et de fragments en Front-End
 - Projet d'étude 4A à l'ESIEA encadré par M. VINCENT (Dev Mobile chez ENGIE)
 - Approfondissement de bases de programmation mobile vues en 3A
-
-https://github.com/Weezya/Navigator
 
 ## Table of Contents
 
